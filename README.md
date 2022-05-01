@@ -32,7 +32,7 @@
  </p>
 
 ```bash
-  git clone 
+  git clone https://github.com/Mrkarfa/TravelPoint.git
   cd Downloads
 ```
     
