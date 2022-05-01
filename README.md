@@ -1,8 +1,13 @@
 # TravelPoint
 
 <h1 align="center">Hi 👋, I'm souvik karfa</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Kolkata</h3>
 
+
+## Badges
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrkarfa&label=Profile%20views&color=0e75b6&style=flat" alt="mrkarfa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrkarfa" alt="mrkarfa" /></a> </p>
@@ -21,6 +26,44 @@
 
 - 📫 How to reach me **souvikkarfa40227@gmail.com**
 
+<h3 align="left">🚀 Usage</h3>
+<p align="left">
+  Clone the repository into your projects directory:
+ </p>
+
+```bash
+  git clone 
+  cd Downloads
+```
+    
+<p align="left">
+  Make Sure You have <a href="https://nodejs.org/en/" target="blank">nodejs</a> installed in your pc or Laptop whatever you are using.</p>
+  <p align="left">
+  Just run the following command at the root of your project and Boommm...., you will get the result:
+  </p>
+  
+```bash
+  npm run build
+```
+ 
+## Features
+
+- Fully Responsive
+- Live previews
+- Fullscreen mode
+- Cross platform
+- Dark Mode available
+ 
+ ## Tech Stack
+
+**Client:** HTML, CSS, TailwindCSS, Java-Script
+
+**Server:** Node
+ 
+## Feedback
+
+If you have any feedback, please reach out to us at souvikkarfa40227@gmail.com
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/souvik karfa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souvik karfa" height="30" width="40" /></a>
@@ -34,6 +77,3 @@
 <p><a href="https://www.buymeacoffee.com/mrkarfa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mrkarfa" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrkarfa&show_icons=true&locale=en&layout=compact" alt="mrkarfa" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrkarfa&show_icons=true&locale=en" alt="mrkarfa" /></p>
-
